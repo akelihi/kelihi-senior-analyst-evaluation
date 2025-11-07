@@ -1,0 +1,4 @@
+kelihi.duckdb
+data/out/
+.venv/
+__pycache__/
